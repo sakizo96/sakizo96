@@ -9,7 +9,7 @@ body {
 @media screen and (max-device-width: 768px){
 
 	body {
-	  background: url("img/worlds-wallpaper.jpg") no-repeat center fixed;
+	  background: url("../img/worlds-wallpaper.jpg") no-repeat center fixed;
 	}
 
 	.btn {
