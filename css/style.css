@@ -1,5 +1,5 @@
 body {
-  background: url("../img/Birdianimo.png") no-repeat center 5px fixed;
+  background: url("img/worlds-wallpaper.jpg") no-repeat center 5px fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
@@ -9,7 +9,7 @@ body {
 @media screen and (max-device-width: 768px){
 
 	body {
-	  background: url("../img/Birdianimo.png") no-repeat center fixed;
+	  background: url("img/worlds-wallpaper.jpg") no-repeat center fixed;
 	}
 
 	.btn {
