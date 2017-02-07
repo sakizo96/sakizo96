@@ -1,10 +1,11 @@
 body {
-  background: url("../img/worlds.jpg") no-repeat center 5px fixed;
+  background-image: url("../img/worlds.jpg") no-repeat center 5px fixed;
   -webkit-background-size: cover;
   -moz-background-size: cover;
   -o-background-size: cover;
   background-size: cover;
 }
+
 
 @media screen and (max-device-width: 768px){
 
