@@ -1,0 +1,22 @@
+body {
+  background: url("../img/Birdianimo.png") no-repeat center 5px fixed;
+  -webkit-background-size: cover;
+  -moz-background-size: cover;
+  -o-background-size: cover;
+  background-size: cover;
+}
+
+@media screen and (max-device-width: 768px){
+
+	body {
+	  background: url("../img/Birdianimo.png") no-repeat center fixed;
+	}
+
+	.btn {
+		display: none;
+	}
+
+	.btn-default {
+		display: none;
+	}
+}
